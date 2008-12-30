@@ -3,10 +3,7 @@ use strict;
 use Geo::Inverse;
 use DateTime;
 
-BEGIN {
-  use vars qw($VERSION);
-  $VERSION='0.04';
-}
+our $VERSION='0.05';
 
 =head1 NAME
 
